@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Kickstarter Analysis
 
 ## After having 86% of her play FEVER funded in under a month Louise has asked how different campaigns fared in relation to their launch dates and their funding goals.
 
